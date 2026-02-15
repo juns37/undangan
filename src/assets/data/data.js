@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Juni Santoso',
+            child: 'Putra ke 4',
+            father: 'S. Sumodiharjo',
+            mother: 'Watimi',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Lili Sholihah',
+            child: 'Putri ke 8',
+            father: 'Bahri',
+            mother: 'Mariah',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,9 +22,9 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
+            year: '2026',
+            month: 'April',
+            date: '16',
             day: 'Kamis',
             hours: {
                 start: '08.00',
@@ -32,21 +32,21 @@ export const data = {
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
+            year: '2026',
+            month: 'April',
+            date: '16',
             day: 'Kamis',
             hours: {
-                start: '11.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'BLOK PENAWUAN LOR RT 003 RW 004 DS. KEDUNG BUNDER KEC. GEMPOL KAB. CIREBON'
     },
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.app.goo.gl/8mAfnNGS9pHrZfMd8',
     },
 
     galeri: [
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Juni Santoso',
             icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Lili Sholihah',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwtMegTC1ZxyuSzZkLuvltjlfET1LxFAXD2hPBG88qdJ-tJ3lrd43A85b-J2s5lebF-/exec',
 
     navbar: [
         {
