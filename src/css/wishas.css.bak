@@ -1,12 +1,11 @@
 .wishas {
     width: 100%;
-    min-height: fit-content; /* Ubah dari 100vh */
-    padding: 6rem 2rem;      /* Sesuaikan padding jika terlalu lebar */
+    min-height: 100vh;
+    padding: 4rem 8rem;
     background-color: var(--bg-color);
     position: relative;
     text-align: center;
 }
-
 
 .wishas div:nth-of-type(1) h2, .wishas div:nth-of-type(2) h2 {
     font-size: var(--fontSize-heading-base);
@@ -209,5 +208,5 @@
     z-index: -10;
     left: 0;
     right: 0;
-    bottom: 0; /* Ubah dari -15rem menjadi 0 atau -2rem */
+    bottom: -15rem;
 }
